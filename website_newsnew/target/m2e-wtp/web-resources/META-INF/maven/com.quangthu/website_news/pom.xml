@@ -43,6 +43,14 @@
 		    <groupId>javax.servlet</groupId>
 		    <artifactId>jstl</artifactId>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/com.google.cloud.sql/mysql-socket-factory -->
+<dependency>
+    <groupId>com.google.cloud.sql</groupId>
+    <artifactId>mysql-socket-factory</artifactId>
+    <version>1.0.13</version>
+</dependency>
+		<!-- https://mvnrepository.com/artifact/com.google.cloud.tools/appengine-maven-plugin -->
+
 		
 		
   </dependencies>
